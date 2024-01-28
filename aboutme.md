@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: First-year Ph.D. student, writing about everything in life and research. Self-preserved Mind Garden.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is CC. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- Good at cooking and organization, which makes me calm down.
+- Like reading, running, watch movies, and coding.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+在自我寻找的进程中，做过程序员，进过体制内，进过高校，现在读博。拖延症晚期患者。自留地，记录一些所思所想。最喜欢的电影是一代宗师，最喜欢的美剧是《This is us》
