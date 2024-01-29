@@ -7,7 +7,7 @@ subtitle: First-year Ph.D. student, writing about everything in life and researc
 My name is CC. I have the following qualities:
 
 - Good at cooking and organization, which makes me calm down.
-- Like reading, running, watch movies, and coding.
+- Like reading, running, watching movies, and coding.
 
 ### My story
 
